@@ -1,6 +1,7 @@
 ## Последовательность
 
-![SequenceAlgs.png](:/4500e1aa235a4aa6b39b8080a1613e11)
+![image](https://github.com/MichaelOskin/AlgorithmsPatterns/assets/139218970/407089ae-d832-4022-88be-8439c2955511)
+
 
 ***
 
@@ -43,8 +44,7 @@
  
  **Structure:**
  
-
-[NeetCodeStructure.pdf](:/f414c6cf889542da81f5febacffda03a)
+[NeetCodeStructure.pdf](https://github.com/MichaelOskin/AlgorithmsPatterns/files/12360908/NeetCodeStructure.pdf)
 
 
  - [ ] [leetcode-patterns](https://seanprashad.com/leetcode-patterns/)
@@ -54,7 +54,8 @@
 
  - [ ]  [Handbook/Algorithms](https://academy.yandex.ru/handbook/algorithms)
 **Structure:**
-[Основы алгоритмов.pdf](:/ac6be57a30d94e82a974dd5c6cebf321)
+[Основы алгоритмов.pdf](https://github.com/MichaelOskin/AlgorithmsPatterns/files/12360915/default.pdf)
+
  - [ ] [Платформа CodeRun](https://coderun.yandex.ru/catalog)
 **Платформа поможет закрепить задачи, которые могут встречаться на собесе в Yandex (схожесть задач с Codeforces)**
 
