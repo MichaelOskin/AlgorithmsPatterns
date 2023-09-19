@@ -42,7 +42,6 @@ Given an integer `n`, return *an array* `ans` *of length* `n + 1` *such that for
 - It is very easy to come up with a solution with a runtime of `O(n log n)`. Can you do it in linear time `O(n)` and possibly in a single pass?
 - Can you do it without using any built-in function (i.e., like `__builtin_popcount` in C++)?
 
-![image](https://github.com/MichaelOskin/AlgorithmsPatterns/assets/139218970/38c4ecad-f30b-49fe-80d2-ac0a140622b9)
 
 
 >Задача решается через формулу: `dp[i] = 1 + dp[i-4]`
