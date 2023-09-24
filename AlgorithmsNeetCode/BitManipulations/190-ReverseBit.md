@@ -1,4 +1,4 @@
-[190\. Reverse Bit](https://leetcode.com/problems/reverse-bits/description/)
+## [190\. Reverse Bit](https://leetcode.com/problems/reverse-bits/description/)
 
 ![image](https://github.com/MichaelOskin/AlgorithmsPatterns/assets/139218970/377164b5-2b43-4dcb-9cc4-9d38357b0975)
 
