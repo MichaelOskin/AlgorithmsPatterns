@@ -1,4 +1,4 @@
-[338\. Counting Bits](https://leetcode.com/problems/counting-bits/)
+## [338\. Counting Bits](https://leetcode.com/problems/counting-bits/)
 
 ![image](https://github.com/MichaelOskin/AlgorithmsPatterns/assets/139218970/d0293853-a4c8-465c-af01-e17adecf87d0)
 
@@ -74,3 +74,7 @@ func countBits(n int) []int {
 **result**
 
 ![image](https://github.com/MichaelOskin/AlgorithmsPatterns/assets/139218970/23d373be-9512-4973-90d8-ebf3e681c523)
+
+## Сложность
+* Speed *O(n)*
+* Capacity *O(n)*
