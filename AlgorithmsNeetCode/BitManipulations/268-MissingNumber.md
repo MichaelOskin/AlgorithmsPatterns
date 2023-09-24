@@ -1,4 +1,4 @@
-[268. Missing Number](https://leetcode.com/problems/missing-number/)
+## [268. Missing Number](https://leetcode.com/problems/missing-number/)
 
 ![image](https://github.com/MichaelOskin/AlgorithmsPatterns/assets/139218970/2075d7fb-84bb-4d2c-ba47-854e11c80a78)
 
@@ -38,13 +38,13 @@ Given an array `nums` containing `n` distinct numbers in the range `[0, n]`, ret
 
 **Follow up:** Could you implement a solution using only `O(1)` extra space complexity and `O(n)` runtime complexity?
 
-**solution**
+## Решение
 
 > Задача схожа c [SingleNumber](https://leetcode.com/problems/single-number/)  и имеет идентичное решение за исключением того, что мы сами определяем дублицирование последовательностью `0 - i+1`. *Xor ^* может использоваться без упорядочивания, его проход будет *O(n)*
 
 **code**
 
-```
+```go
 func missingNumber(nums []int) int {
     el, length := 0, len(nums)
     for i := 0; i < length; i++ {
@@ -57,3 +57,7 @@ func missingNumber(nums []int) int {
 **result**
 
 ![image](https://github.com/MichaelOskin/AlgorithmsPatterns/assets/139218970/ce42d740-6de8-4c13-b4be-19cde8a12378)
+
+## Сложность
+* Speed O(n)
+* Capacity O(1)
