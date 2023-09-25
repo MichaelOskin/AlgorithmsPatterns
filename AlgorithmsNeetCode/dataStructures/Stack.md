@@ -53,10 +53,6 @@ func (s *Stack) IsEmpty() bool {
 func (s *Stack) Len() int {
 	return len(s.nms)
 }
-
-func main() {
-	fmt.Println("")
-}
 ```
 
 ## Асимптотика
